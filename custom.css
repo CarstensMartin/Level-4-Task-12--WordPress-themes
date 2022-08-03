@@ -1,0 +1,36 @@
+/*Body Styling*/
+body{
+	background:purple;
+		cursor:auto;
+}
+/*ID styling*/
+#about-me{
+	color:purple;
+}
+/*Classes styling*/
+.about-me {
+	font-size-adjust:1.2;
+	background-color:black;
+	color:purple;
+}
+.more-about-me {
+	font-weight:bolder;
+	text-align:justify;
+}
+.wp-block-social-links{
+	background:purple;
+}
+.project-div h2{
+	background:white;
+}
+.project-div ul{
+	background:lightblue
+}
+.reference{
+	font-weight:bolder;
+	text-align:justify;
+	background-color:pink;
+}
+.reference figcaption{
+	color:purple;
+}
